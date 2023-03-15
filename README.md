@@ -19,12 +19,12 @@ Running macOS on Toshiba Satellite C40-A Series with OpenCore UEFI
  
 ### Specs :
 
-- [x] <b>BIOS</b>: v1.30 (2016/08/24) Ínsyde H2O Ultility,
+- [x] <b>BIOS</b>: v1.30 (2016/08/24) Insyde H2O Ultility,
 - [x] <b>Model Laptop/Notebook</b>: Toshiba Satellite C40-A Series
 - [x] <b>Processor</b>: Intel Core i3-3120M (3) @ 2.5 GHz Ivy Bridge
 - [x] <b>Graphics</b>: Intel HD Graphics 4000
 - [x] <b>RAM</b>: 4 GB 1600 MHz DDR3
-- [x] <b>HDD</b>: 12GB SATA SSD (GUID Partition Table)
+- [x] <b>Disk</b>: 12GB SATA SSD Kingston SA400S37120G(GUID Partition Table)
 - [x] <b>Audio</b>: Conexant CX20756
 - [x] <b>Wifi+BT</b>: Qualcomm Atheros QCA9565/AR9565 Wireless Network Adapter + AR3012 (Azurewave Tech)
 - [x] <b>Ethernet</b>: Qualcomm Atheros AR8162/8166/8168 PCI-E Fast Ethernet Controller

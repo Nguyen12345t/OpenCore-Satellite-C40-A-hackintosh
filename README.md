@@ -96,6 +96,7 @@ Boot -> Launch CSM | Enabled or Disabled for Resolution Boot OC
 - [Mieze](https://github.com/Mieze)
 - [Pike R. Alpha](https://github.com/Piker-Alpha)
 - [InsanelyMac](https://www.insanelymac.com)
+- [OpenCoreVN](https://www.facebook.com/groups/hackintosh.vietnam)
 - [HSVN](https://www.facebook.com/groups/hackintoshsvn)
 - [Mihari Oyama](https://www.facebook.com/unicornhack)
 - [Olarila](http://olarila.com)
